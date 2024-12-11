@@ -1,0 +1,4 @@
+[submodule "phase2-calibration-asic-testbench"]
+	path = phase2-calibration-asic-testbench
+	url = https://gitlab.cern.ch/atlas-lar-calibration/phase2-calibration-asic-testbench.git
+	branch = asic_testbench_lapp
